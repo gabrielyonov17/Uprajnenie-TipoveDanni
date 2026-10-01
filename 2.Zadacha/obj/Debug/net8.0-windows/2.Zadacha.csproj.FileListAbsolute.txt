@@ -1,0 +1,17 @@
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\bin\Debug\net8.0-windows\2.Zadacha.exe
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\bin\Debug\net8.0-windows\2.Zadacha.deps.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\bin\Debug\net8.0-windows\2.Zadacha.runtimeconfig.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\bin\Debug\net8.0-windows\2.Zadacha.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\bin\Debug\net8.0-windows\2.Zadacha.pdb
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\_2.Zadacha.Form1.resources
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.sourcelink.json
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\refint\2.Zadacha.dll
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.pdb
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\2.Zadacha.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Zadachi-Belezireva\1.Zadacha\2.Zadacha\obj\Debug\net8.0-windows\ref\2.Zadacha.dll
